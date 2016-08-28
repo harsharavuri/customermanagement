@@ -1,0 +1,97 @@
+
+h2
+{
+	font-size: 40px ;
+	color: #31708f;
+}
+h3 {
+
+ color : #A84C16;
+}
+body
+{
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 14px;
+    line-height: 1.42857143;
+    color: #07DDF5;
+    
+    
+}
+.container {
+    width: 1350px;
+}
+.form-control
+{
+	width : 80% ;
+	border: 2px solid #D23737 ;
+	background-color: rgb(255, 231, 254);
+	border-radius: 10px;
+	height: 38px;
+}
+a {
+    color: D4412A;
+}
+.navbar{
+background-color: #E9E9E9;
+margin-bottom: 3px;
+border-radius: 9px;
+}
+a:link {
+    color: red;
+}
+a:visited {
+    color: #DCD61C;
+}
+
+a:hover {
+    color: hotpink;
+}
+
+
+a:active {
+    color: blue;
+
+}
+.div {
+ }
+#navcontainer ul
+{
+margin: 0;
+padding: 0;
+list-style-type: none;
+}
+
+#navcontainer li { margin: 0; }
+
+#navcontainer a
+{
+display: block;
+color: #FFF;
+background-color: #036;
+width: 9em;
+padding: 3px 12px 3px 8px;
+text-decoration: none;
+border-bottom: 1px solid #fff;
+}
+
+#navcontainer a:hover
+{
+background-color: #369;
+color: #FFF;
+}
+
+#navcontainer li li a
+{
+display: block;
+color: #FFF;
+background-color: #69C;
+width: 9em;
+padding: 3px 12px 3px 8px;
+text-decoration: none;
+border-bottom: 1px solid #fff;
+}
+
+
+
+
+ 
